@@ -1,0 +1,33 @@
+div {
+    padding-top: 5px;
+    padding-right: 8px;
+    padding-bottom: 10px;
+    padding-left: 6px;
+    border: 3px solid black;
+    margin-top: 7px;
+    margin-right: 9px;
+    margin-bottom: 11px;
+    margin-left: 12px;
+    display: inline-block;
+
+}
+
+body, html {
+    height: 100%;
+
+}
+
+.box1 {
+    height: 100%;
+}
+.box1 {
+    height: 300px;
+    width: 50%;
+}
+.box1 {
+    display: none;
+}
+
+.box2 h3:hover {
+    color: red;
+}
